@@ -4,6 +4,11 @@ This Node.js template lets you get started quickly with a simple one-page playgr
 
 ```javascript runnable
 console.log('Hello La partie 2!');
+?[What is the answer to Life, the Universe and Everything?]
+-[ ] There is no answer to that!
+-[ ] Sleep and eat
+-[x] Easy, this is 42
+-[ ] Peace & Love
 ```
 
 # Advanced usage
