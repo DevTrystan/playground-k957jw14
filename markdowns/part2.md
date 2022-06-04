@@ -1,4 +1,8 @@
 # Welcome!
+?[This is the label used for the question](single)
+- [ ] Choice 1
+- [X] Choice 2 which is a valid answer
+- [ ] Choice 3
 
 This Node.js template lets you get started quickly with a simple one-page playground.
 
